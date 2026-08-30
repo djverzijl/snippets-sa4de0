@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://djverzijl.github.io/snippets-sa4de0/sitemap.xml
